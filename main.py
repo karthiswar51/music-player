@@ -23,7 +23,7 @@ def resumesong():
     mixer.music.unpause()    
 
 root=Tk()
-root.title('ProjectGurukul Music player project')
+root.title('music player')
 
 mixer.init()
 songstatus=StringVar()
